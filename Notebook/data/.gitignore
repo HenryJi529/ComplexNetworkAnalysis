@@ -10,3 +10,6 @@ phonecalls.edgelist.txt
 powergrid.edgelist.txt
 protein.edgelist.txt
 www.edgelist.txt
+
+networks/
+networks.zip
