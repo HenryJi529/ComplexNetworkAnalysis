@@ -1,0 +1,11 @@
+numpy
+scipy
+pandas
+openpyxl
+matplotlib
+seaborn
+SciencePlots
+ipykernel
+networkx
+cairocffi # igraph的依赖
+igraph
