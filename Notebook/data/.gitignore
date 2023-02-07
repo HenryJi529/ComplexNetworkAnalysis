@@ -1,0 +1,12 @@
+actor.edgelist.txt
+citation.edgelist.csv
+celegans_metabolic.edgelist.csv
+power.edgelist.csv
+collaboration.edgelist.txt
+email.edgelist.txt
+internet.edgelist.txt
+metabolic.edgelist.txt
+phonecalls.edgelist.txt
+powergrid.edgelist.txt
+protein.edgelist.txt
+www.edgelist.txt
