@@ -1,16 +1,17 @@
 此文件所在目录用于存放以下数据集:
 - actor.edgelist.txt
-- citation.edgelist.csv
 - celegans_metabolic.edgelist.csv
-- power.edgelist.csv
+- citation.edgelist.csv
 - collaboration.edgelist.txt
 - email.edgelist.txt
 - internet.edgelist.txt
 - metabolic.edgelist.txt
 - phoneCalls.edgelist.txt
+- power.edgelist.csv
 - powerGrid.edgelist.txt
 - protein.edgelist.txt
+- protein_interaction.edgelist.csv
+- router_internet.edgelist.csv
 - www.edgelist.txt
 
-下载地址: 
-- 百度网盘链接: https://pan.baidu.com/s/1yO6Q49bsVXINE02WQCeujQ 提取码: nk97
+数据集可联系作者获取(jeep.jipu@gmail.com)
