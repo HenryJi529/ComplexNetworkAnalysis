@@ -7,5 +7,6 @@ seaborn
 SciencePlots
 ipykernel
 networkx
+powerlaw
 cairocffi # igraph的依赖
 igraph
